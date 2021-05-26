@@ -12,6 +12,9 @@
     <div>
      #목차
     <li>1.CSR, SSR </li>
+    <li>2. HTTP, HTTPS</li>
+    <li>2.1 OSI 7계층, TCP/IP 4계층</li>
+    <li>3. HTTP METHOD GET / POST</li>
     </div>
     </form>
 </body>
